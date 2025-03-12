@@ -1,2 +1,3 @@
-# PCM_ScheduleAndRisk
-Compute the duration of a project using a graph and the critical path method. Deal with uncertainty using PERT and MC Simulations
+# Project and Construction Management
+This repository contains examples I made for my students
+Any suggestion is welcome
